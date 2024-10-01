@@ -3,6 +3,7 @@
 ## Index
 
 + [Intro to course](#intro-to-course)
++ [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
 
 ## Introduction
 
