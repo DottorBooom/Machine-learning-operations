@@ -4,7 +4,7 @@
 
 + [Intro to course](#intro-to-course)
 + [Introduction to Software Engineering](#introduction-to-software-engineering)
-+ [Software Engineering: Requirements](#software-erngineering-requirements)
++ [Software Engineering: Requirements](#software-rngineering-requirements)
 + [Software Engineering: Software Processes](#software-engineering-software-processes)
 + [Software Engineering: System Modeling](#software-engineering-system-modeling)
 + [Software Engineering: Agile Software Development](#software-engineering-agile-software-development)
