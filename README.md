@@ -4,13 +4,13 @@
 
 + [Intro to course](#intro-to-course)
 + [Introduction to Software Engineering](#introduction-to-software-engineering)
-+ [Software Engineering: Requirements](#software-erngineering:-requirements)
-+ [Software Engineering - Software Processes](#software-engineering:-software-processes)
-+ [Software Engineering: System Modeling](#software-engineering:-system-modeling)
-+ [Software Engineering - Agile Software Development](#software-engineering:-agile-software-development)
-+ [MLOps: Introduction to ML ](#mlops:-introduction-to-ml)
++ [Software Engineering: Requirements](#software-erngineering-requirements)
++ [Software Engineering: Software Processes](#software-engineering-software-processes)
++ [Software Engineering: System Modeling](#software-engineering-system-modeling)
++ [Software Engineering: Agile Software Development](#software-engineering-agile-software-development)
++ [MLOps: Introduction to ML ](#mlops-introduction-to-ml)
 + [Data Representation and Analysis Using Graph Models](#data-representation-and-analysis-using-graph-models)
-+ [MLOps: Clustering Analysis](#mlops:-clustering-analysis)
++ [MLOps: Clustering Analysis](#mlops-clustering-analysis)
 + [MLOps pt1](#mlops-pt1)
 + [MLOps pt2](#mlops-pt2)
 + [Master's index](https://github.com/DottorBooom/Master-in-Data-Science-and-Artificial-Intelligence) 
@@ -58,7 +58,7 @@ In this lecture it's gonna be descussed what Is a good software, how to define i
 
 Slides are available [here](Lectures/Lecture_01)
 
-## Software Engineering: Requirements
+## Software Engineering Requirements
 
 During this lesson we will introduce Requirements Engineering, the different types, defining them, managing them and some common practices.
 
@@ -74,7 +74,7 @@ During this lesson we will introduce Requirements Engineering, the different typ
 
 Slides are available [here](Lectures/Lecture_02)
 
-## Software Engineering: Software Processes
+## Software Engineering Software Processes
 
 In this lesson, the software development process will be introduced, the different approaches that can be used and the development phases.
 
@@ -85,7 +85,7 @@ In this lesson, the software development process will be introduced, the differe
 
 Slides are available [here](Lectures/Lecture_03)
 
-## Software Engineering: System Modeling
+## Software Engineering System Modeling
 
 In this lesson, we will define system modeling, the diagrams that define it, and the models and processes that are used.
 
@@ -97,7 +97,7 @@ In this lesson, we will define system modeling, the diagrams that define it, and
 
 Slides are available [here](Lectures/Lecture_04)
 
-## Software Engineering: Agile Software Development
+## Software Engineering Agile Software Development
 
 This lesson will be divided into 2 parts. The first part will define the agile method, how it works and what it is used for. The second part will show how to use this method in a more advanced way.
 
@@ -113,7 +113,7 @@ Part 2
 
 Slides are available [here](Lectures/Lecture_05)
 
-## MLOps: Introduction to ML 
+## MLOps Introduction to ML 
 
 In this lesson, machine learning will be introduced, defined, the different methodologies and types and several examples of algorithms.
 
@@ -139,7 +139,7 @@ A lesson from Prof. Carlos Henrique Gomes Ferreira on graph modelling.
 
 Slides are available [here](Lectures/Lecture_07)
 
-## MLOps: Clustering Analysis
+## MLOps Clustering Analysis
 
 In this lesson, the concept of data cluster will be introduced, what it is and how to recognize it, algorithms that allow you to identify them and how it is connected with ML.
 
