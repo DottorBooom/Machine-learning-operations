@@ -41,7 +41,7 @@
 
 A simple introduction with what you have to expect from this course. Everything written above is a summary of the lesson.
 
-Slides are available [here](Lectures/Lecture_00)
+Slides are available [here](Lectures/Lecture_00.pdf)
 
 ## Introduction to Software Engineering
 
@@ -56,7 +56,7 @@ In this lecture it's gonna be descussed what Is a good software, how to define i
 + Software Products
 + General Questions
 
-Slides are available [here](Lectures/Lecture_01)
+Slides are available [here](Lectures/Lecture_01.pdf)
 
 ## Software Engineering Requirements
 
@@ -72,7 +72,7 @@ During this lesson we will introduce Requirements Engineering, the different typ
 + Requirements management
 + Some Practice
 
-Slides are available [here](Lectures/Lecture_02)
+Slides are available [here](Lectures/Lecture_02.pdf)
 
 ## Software Engineering Software Processes
 
@@ -83,7 +83,7 @@ In this lesson, the software development process will be introduced, the differe
 + Coping with change
 + The Rational Unified Process
 
-Slides are available [here](Lectures/Lecture_03)
+Slides are available [here](Lectures/Lecture_03.pdf)
 
 ## Software Engineering System Modeling
 
@@ -95,7 +95,7 @@ In this lesson, we will define system modeling, the diagrams that define it, and
 + Behavioral models
 + Data-driven engineering
 
-Slides are available [here](Lectures/Lecture_04)
+Slides are available [here](Lectures/Lecture_04.pdf)
 
 ## Software Engineering Agile Software Development
 
@@ -111,7 +111,7 @@ Part 2
 + Scaling agile methods
 
 
-Slides are available [here](Lectures/Lecture_05)
+Slides are available [here](Lectures/Lecture_05.pdf)
 
 ## MLOps Introduction to ML 
 
@@ -126,7 +126,7 @@ In this lesson, machine learning will be introduced, defined, the different meth
 + Some Classification Algorithms (knn, decision trees, logistic regression, SVM)
 + Examples
 
-Slides are available [here](Lectures/Lecture_06)
+Slides are available [here](Lectures/Lecture_06.pdf)
 
 ## Data Representation and Analysis Using Graph Models
 
@@ -137,7 +137,7 @@ A lesson from Prof. Carlos Henrique Gomes Ferreira on graph modelling.
 + Community Detection
 + Final Considerations 
 
-Slides are available [here](Lectures/Lecture_07)
+Slides are available [here](Lectures/Lecture_07.pdf)
 
 ## MLOps Clustering Analysis
 
@@ -154,7 +154,7 @@ In this lesson, the concept of data cluster will be introduced, what it is and h
 + Unsupervised ML, beyond clustering.
 + Principal Component Analysis 
 
-Slides are available [here](Lectures/Lecture_08)
+Slides are available [here](Lectures/Lecture_08.pdf)
 
 ## MLOps pt1
 
@@ -163,7 +163,7 @@ Slides are available [here](Lectures/Lecture_08)
 + People and Roles
 + Preparing for Production
 
-Slides are available [here](Lectures/Lecture_09)
+Slides are available [here](Lectures/Lecture_09.pdf)
 
 ## MLOps pt2
 
@@ -174,4 +174,4 @@ Slides are available [here](Lectures/Lecture_09)
   - Good Practices
 + MPOps Project
 
-Slides are available [here](Lectures/Lecture_10)
+Slides are available [here](Lectures/Lecture_10.pdf)
